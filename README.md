@@ -6,5 +6,6 @@ This project is a Retrieval-Augmented Generation (RAG) system that allows users 
 ## 🎥 Demo
 
 Watch the demo video here:  
-[▶️ Click to View Demo]([https://github.com/<username>/<repo>/releases/download/v1.0.0/demo.mp4](https://github.com/user-attachments/assets/f4e7b396-0ca8-4cbf-8556-596812ac24a0))
+[▶️ Click to View Demo](https://github.com/user-attachments/assets/f4e7b396-0ca8-4cbf-8556-596812ac24a0)
+
 
