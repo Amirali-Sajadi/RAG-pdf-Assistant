@@ -12,5 +12,6 @@ wheels/
 # Groq API key
 .env
 
-# Uploded PDF files
+# Uploded PDF files and Data Base
 /uploads
+/qdrant_storage
